@@ -1,7 +1,7 @@
 # Let's Dive into MTWC Timer Fun!
 
 <p align="center">
-  <img align="center" height="150px" src="https://github.com/mukaramkhaleel/MTWC  [ https://www.linkedin.com/in/mukarram-khaleel-5b857466/ ]/MTWC-timer/assets/77712031/14a27278-eb50-4a0b-8fe2-96a4244950f9" alt="MTWC Timer Icon">
+  <img align="center" height="150px" src="https://github.com/mukaramkhaleel/MTWC-timer/blob/master/icon.png" alt="MTWC Timer Icon">
 </p>
 
 <h2 align="center">Experience Time Magic with MTWC Timer</h2>
