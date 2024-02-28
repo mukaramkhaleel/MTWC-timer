@@ -13,8 +13,11 @@ The MTWC Timer Extension is like a wizard's tool for mastering time management r
 - Start, pause, and resume your timer with just a click, making your workflow seamless.
 - Keep track of your tasks effortlessly with the handy task list feature.
 
-## Installation Made Easy
 
+## Installation Made Easy
+<p align="center">
+  <img align="center" height="150px" src="https://github.com/mukaramkhaleel/MTWC-timer/blob/master/looks.png" alt="MTWC Timer Icon">
+</p>
 1. Ready to embark on this time-travel adventure? Clone this repository or snag the source code as a ZIP file.
 2. Navigate to `chrome://extensions` in Google Chrome.
 3. Take the leap into "Developer mode" by toggling the switch in the top-right corner.
